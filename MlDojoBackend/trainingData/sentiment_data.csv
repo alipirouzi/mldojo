@@ -1,0 +1,10 @@
+Text,Label
+"This is an excellent movie",true
+"The product is amazing",true
+"I love this experience",true
+"This is a terrible product",false
+"I hate this movie",false
+"The service was horrible",false
+"The staff was rude",false
+"I feel so happy about this!",true
+"This is the worst experience ever",false
